@@ -1,0 +1,18 @@
+﻿  app.c
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\app\app.c(12,3): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\app\app.c(49,37): warning C4013: 'strcpy' undefined; assuming extern returning int
+  server.c
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(9,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(10,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(11,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(12,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(69,29): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(69,19): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(74,29): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(74,19): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(79,29): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(79,19): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(88,29): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t **'
+C:\Users\soft zone\Desktop\Payment App\Project1\Project1\server\server.c(88,19): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+  Generating Code...
+  Project1.vcxproj -> C:\Users\soft zone\Desktop\Payment App\Project1\x64\Debug\Project1.exe
